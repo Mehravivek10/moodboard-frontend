@@ -32,3 +32,4 @@ npm install
 npm run dev
 
 #output or screenshot of the full UI
+public/Screenshot 2025-06-09 at 9.04.09 AM.png
