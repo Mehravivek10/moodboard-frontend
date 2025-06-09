@@ -32,4 +32,7 @@ npm install
 npm run dev
 
 #output or screenshot of the full UI
+<img width="1470" alt="Screenshot 2025-06-09 at 9 04 09 AM" src="https://github.com/user-attachments/assets/b4f317ac-442c-47f1-a974-7bb491789e8d" />
+
 public/Screenshot 2025-06-09 at 9.04.09 AM.png
+
