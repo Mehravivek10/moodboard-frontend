@@ -30,7 +30,6 @@ export default function Calendar({ moods, setMoods }) {
             <div className="text-lg font-semibold text-gray-800 dark:text-white">
               {format(new Date(date), 'd')}
             </div>
-
             {mood && (
               <>
                 <div className="mt-2 text-2xl">{mood.emoji}</div>
